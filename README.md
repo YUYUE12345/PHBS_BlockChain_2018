@@ -21,17 +21,19 @@ The blockchain has been widely promoted since 2015. Recognizing the enormous inn
 In October 2016, the Ministry of Industry and Information Technology issued the “White Paper on Chinese Blockchain and Application Development”, pointing out that “the transparency of the blockchain system and the inability to tamper with data” are fully applicable to student credit management, career promotion, academic and qualification certificates. 
 
 ![GitHub Logo](/图片1.png)
+
 Figure Internet + Education based on blockchain
 
 At present, some educational institutions or research institutes have carried out early explorations on the educational application of blockchain. In the fall of 2015, the MIT Media Lab applied blockchain to develop a learning certificate platform and released related mobile apps, as shown in next figure. The software training facility, Holberton School, is the first school in the world to use blockchain to record academic qualifications and will share academic credentials on the blockchain starting in 2017. In the electronic badge community, the Badge Chain team is investigating how to use the blockchain to issue digital badges. In addition, educational institutions have developed a game currency mechanism used in the learning system based on the original financial currency function of the blockchain to enhance learners' motivation to learn and share knowledge on the platform.
 
-图
+![GitHub Logo](/图片2.png)
+
 Figure MIT e-learning certificate APP screenshot
   
 #### (b) Th methods the applications of blockchain affect education 
 In the field of education, the application of blockchain and business innovation are still at the forefront of exploration. For example, blockchain in education can be used for distributed storage data logging, or as an application scenario such as Intellectual Currency; and researchers foresee the use of blockchain in open source credit certification, data security, data storage, and academic publishing. Blockchain has the following possible applications in education:
 
-图
+![GitHub Logo](/图片3.png)
 
 ## III. the main business models and cases of the current educational blockchain application
 The blockchain business that emerged first in education and is most likely to be rapidly promoted is its application in learning records and certificate certification.
@@ -41,7 +43,8 @@ The education application system in the future is data-centric, and various appl
 Similarly, credits can be certified and exchanged through this technology as a more formal learning outcome than learning records. Due to the excellent security mechanism of the blockchain, the records and inquiries of credit can be realized quickly and cost-effectively between institutions and regions. With the perfect credit recognition system, learners can easily obtain a certificate or qualification. Due to its decentralized nature, there is no need to build a central system for credit transactions when setting up a credit transfer platform, and there is no need to worry about whether there is a fairness issue. As a result, the problems of the credit bank in terms of technical means and social trust have been solved to some extent, and credit banks based on blockchain may soon appear.
 
 **Case 1: [Sony application blockchain provides education infrastructure technology platform]**(https://www.sonyged.com/2016/02/22/news/working-on-the-blockchain/)
-(图)
+
+![GitHub Logo](/图片4.png)
 
 Sony Global Education is a Sony subsidiary established in the field of education in 2015. In February 2016, the company announced the application of blockchain in education to develop learning data sharing technologies for open and secure sharing of academic level and academic progress records. Starting with educational content, Sony has built a technology-based service platform for third-party companies, which will create a new field of education services. In this project, Sony teamed up with Holberton School and Bitproof to implement innovative applications that share academic data through blockchain. The former is an software engineering school; the latter is a blockchain notary that awards diplomas to graduates based on blockchain. They are building a blockchain application, with which students or parents who participate in the assessment will pass the test scores to third parties and after receiving the academic scores, the third parties applies the blockchain to record the academic performance, evaluates and analyzes the learning results, and then provides the learners with the learning content that best suits their interests.
 With the development of the educational paradigm and technological advancement, it is expected to achieve diversified testing services and individualized evaluation methods for individuals in the future. Different evaluation providers may come up with different individual test results because of differences in evaluation methods, but each evaluation method is tailored to its own. For example, applying blockchains to the distribution of digital badges makes it easier for learning management systems to create, award, and publish digital learning records, including learning details, completions, and practices. The blockchain platform developed by Sony Global Education can track the performance of learners in traditional schools, online learning and other learning styles, and the individualized learning information of learners will become more detailed and precise.
@@ -54,7 +57,8 @@ The learning information platform based on blockchain has very high security and
 
 In June 2016, the MIT Media Lab released a report titled  [“What We Learned from Designing an Academic Certificates System on the Blockchain”](https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196) which propose the use of blockchain to publish digital learning certificates and introduces the results of the research team's use of the Bitcoin blockchain and the Mozilla public badge to build  digital certificates over the past year. Since the beginning of 2016, MIT Media Lab has released digital certificates based on blockchain to the public, as shown in next figure.
 
-图
+![GitHub Logo](/图片5.png)
+
 Figure Digital certificate system based on blockchain
  
 The blockchain-based certificate system consists of three parts: Cert-schema, Cert-issuer and Cert-viewer. These three parts work together to broadcast the data of the learning certificate to the blockchain. The main steps for issuing a certificate are as follows: First, create a digital file containing basic information such as the name of the certificate winner, the content of the certificate, the name of the issuer (eg, MIT Media Lab), the date of issue, and so on. The certificate content is then signed and encapsulated into a certificate using a private key that only the publisher can access. A hash is generated as a watermark for later verification of whether someone has tampered with the contents of the certificate. Finally, the issuer's private key is used again to create a record on the Bitcoin blockchain, indicating that the publisher issued a certificate for someone on a certain date.
@@ -63,7 +67,8 @@ The technology used in the MIT Media Lab is not complicated and can be done in o
 ### (3) Reducing the cost of studying, job hunting and employment
 This application is extended from the first two basic functions. At present, there are many chaos in the talent market, such as academic fraud and distortion of resume information. HireRight, a famous American background research company, found in a survey that about 86% of companies have job seekers who have obtained an interview opportunity or even been hired through academic fraud. [The link.]( http://hosteddocs.ittoolbox.com/2015-employment-screening-benchmark-report_final.pdf) In order to verify the qualifications and experience of job seekers, the human resources department needs to invest a lot of energy and has to hire specialized institutions to complete these tasks, greatly increasing the cost of recruitment.
  
-图
+![GitHub Logo](/图片6.png)
+
 Figure Screenshot of the survey
 
 The application of blockchain in degree certificates can completely change the verification and sharing mechanism of experience information. If training institutions can provide blockchain-based digital certificates, learners no longer have to worry about the loss of certificates, and employers and schools can verify their qualifications more easily and at lower cost. Learners no longer have to pay high fees to certify their grades and prepare their own study certificate documents. If all educational institutions use blockchain to encrypt their academic credentials, employers can use the blockchain verification tool to verify the authenticity of the job seeker's qualifications and obtain detailed information. The Holberton School mentioned in the previous section has begun to share information on academic credentials on the blockchain. A potential employer, Merkle, spent only a few seconds through the blockchain browser when doing background checks on the students.  Due to the intangible nature of the blockchain, employers no longer have to worry about the authenticity of the academic credentials.
@@ -73,20 +78,20 @@ The application of blockchain in degree certificates can completely change the v
 The Central University of Finance and Economics launched a “Campus Blockchain Project”, jointly developed by Century Internet and Microsoft. It aims to use blockchain to help students record relevant documents and form a long-term effective, not tampering, non-falsifying, decentralized credit chain. They record all the academic achievements of the students during their school years, which is convenient for the recruiting unit to obtain and verify.
 The project is built on Microsoft's Azure cloud platform, which provides blockchain services by basic blockchain protocol of Century Internet. Azure cloud platform has diversified storage capabilities, flexible network deployment capabilities, secure data management capabilities, easy-to-expand platform architecture capabilities, and intelligent big data management capabilities for the development and deployment of campus blockchain protocols. [The link.](http://china.huanqiu.com/hot/2016-09/9474509.html?agt=15438)
 
-图
-Figure photo from the project
+![GitHub Logo](/图片7.png)
 
+Figure photo from the project
  
 Based on the campus blockchain, students can access individual learning achievement records through relevant services and present them to relevant agencies as needed. After receiving the resume of the student, the company can also use the system to query the student's academic credentials and awards. The use of this system simplifies the process of certifying and verifying this information for schools, individuals and organizations. The campus blockchain is a new attempt in the field of education in the blockchain, which will greatly facilitate college graduates, job seekers and employers, reducing the cost of recruiting and recruiting. In the longer run, the construction of the campus blockchain will accelerate the process of educational informatization and accelerate the integration of online space and real space.
 
 ## IV. Advantages, problems and development direction
 From the characteristics of the technology itself, the blockchain has three major advantages: first is to define a data structure that can express the order; second is to build a peer-to-peer network using a cryptographic-based distributed protocol; third is to use a consensus mechanism to ensure the operation of decentralized network. 
 
-图
+![GitHub Logo](/图片8.png)
 
 However, as an emerging technology, it is also, like other new things, questioned at the same time. The application of this technology to education may have privacy issues, immature technology and lack of flexibility. Although these problems may not be the problem of the blockchain itself, but of the whole business system and management methods.
 
-（图 详细problem）
+![GitHub Logo](/图片9.png)
 
 ### (1)	There are few practical experiences in the field of education. Promotion and operation have some resistance.
 At present, there is no universal standard in the application of blockchain at home and abroad, and most of the research focuses on the financial field. Its promotion and operation in the education field will face the challenges of lack of policy protection and practical experience. First of all, due to the lack of policy protection and guidance, decentralization attributes will have a strong impact on traditional education management institutions, causing major losses to traditional education platforms in the distribution of benefits, leading that relevant institutions and departments are cautious about the application of blockchain in the field of education, which is not conducive to the large-scale promotion and application of blockchain. Secondly, due to the few application cases of blockchain in the field of education, experts and scholars have more wait-and-see attitudes towards the promotion and application of education in the field of education, and lack the motivation to promote its further application.
