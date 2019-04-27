@@ -20,7 +20,7 @@ With the increasing influence of the blockchain in China, there are some innovat
 The blockchain has been widely promoted since 2015. Recognizing the enormous innovation potential of this technology, the forerunners of the education industry have also begun to consider the application of blockchain to build educational information infrastructure, to solve educational problems and provide innovative services.
 In October 2016, the Ministry of Industry and Information Technology issued the “White Paper on Chinese Blockchain and Application Development”, pointing out that “the transparency of the blockchain system and the inability to tamper with data” are fully applicable to student credit management, career promotion, academic and qualification certificates. 
 
-图  
+![GitHub Logo](/images/logo.png)
 Figure Internet + Education based on blockchain
 
 At present, some educational institutions or research institutes have carried out early explorations on the educational application of blockchain. In the fall of 2015, the MIT Media Lab applied blockchain to develop a learning certificate platform and released related mobile apps, as shown in next figure. The software training facility, Holberton School, is the first school in the world to use blockchain to record academic qualifications and will share academic credentials on the blockchain starting in 2017. In the electronic badge community, the Badge Chain team is investigating how to use the blockchain to issue digital badges. In addition, educational institutions have developed a game currency mechanism used in the learning system based on the original financial currency function of the blockchain to enhance learners' motivation to learn and share knowledge on the platform.
@@ -53,6 +53,7 @@ The learning information platform based on blockchain has very high security and
 **Case 2: MIT's Digital Certificates** 
 
 In June 2016, the MIT Media Lab released a report titled  [“What We Learned from Designing an Academic Certificates System on the Blockchain”](https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196) which propose the use of blockchain to publish digital learning certificates and introduces the results of the research team's use of the Bitcoin blockchain and the Mozilla public badge to build  digital certificates over the past year. Since the beginning of 2016, MIT Media Lab has released digital certificates based on blockchain to the public, as shown in next figure.
+
 图
 Figure Digital certificate system based on blockchain
  
@@ -71,6 +72,7 @@ The application of blockchain in degree certificates can completely change the v
 
 The Central University of Finance and Economics launched a “Campus Blockchain Project”, jointly developed by Century Internet and Microsoft. It aims to use blockchain to help students record relevant documents and form a long-term effective, not tampering, non-falsifying, decentralized credit chain. They record all the academic achievements of the students during their school years, which is convenient for the recruiting unit to obtain and verify.
 The project is built on Microsoft's Azure cloud platform, which provides blockchain services by basic blockchain protocol of Century Internet. Azure cloud platform has diversified storage capabilities, flexible network deployment capabilities, secure data management capabilities, easy-to-expand platform architecture capabilities, and intelligent big data management capabilities for the development and deployment of campus blockchain protocols. [The link.](http://china.huanqiu.com/hot/2016-09/9474509.html?agt=15438)
+
 图
 Figure photo from the project
 
@@ -78,7 +80,7 @@ Figure photo from the project
 Based on the campus blockchain, students can access individual learning achievement records through relevant services and present them to relevant agencies as needed. After receiving the resume of the student, the company can also use the system to query the student's academic credentials and awards. The use of this system simplifies the process of certifying and verifying this information for schools, individuals and organizations. The campus blockchain is a new attempt in the field of education in the blockchain, which will greatly facilitate college graduates, job seekers and employers, reducing the cost of recruiting and recruiting. In the longer run, the construction of the campus blockchain will accelerate the process of educational informatization and accelerate the integration of online space and real space.
 
 ## IV. Advantages, problems and development direction
-From the characteristics of the technology itself, the blockchain has three major advantages: one is to define a data structure that can express the order; second is to build a peer-to-peer network using a cryptographic-based distributed protocol; the third is to use a consensus mechanism to ensure the operation of decentralized network. 
+From the characteristics of the technology itself, the blockchain has three major advantages: first is to define a data structure that can express the order; second is to build a peer-to-peer network using a cryptographic-based distributed protocol; third is to use a consensus mechanism to ensure the operation of decentralized network. 
 
 图
 
@@ -111,4 +113,4 @@ It is a long process for blockchain merging into education to be recognized and 
 
 
 ## V. Summary
-Blockchain has been rapidly rising in recent years, and its application fields far exceed financial and digital currencies, and are expanding to various industries. Blockchain offers the potential to change existing business models, which helps create a decentralized education system. This article has only made some preliminary explorations and case studies, because the blockchain itself is still changing and developing. Various innovations around blockchain are constantly being tried, and new business models are constantly being invented. The impact on education is still to be tested by long-term practice. Many investment institutions recognize that the development possibilities of blockchain in many industries in the future are still highly uncertain. The current exploration is more focused on the underlying structure. Most of the capital has a wait-and-see attitude and hopes to wait for the situation to be clear. There are still many shortcomings in this report, as to be deepened in theory, and lack of in-depth exploration and summary in practice.
+Blockchain has been rapidly rising in recent years, and its application fields far exceed financial and digital currencies, and are expanding to various industries. Blockchain offers the potential to change existing business models, which helps create a decentralized education system. This article has only made some preliminary explorations and case studies, because the blockchain itself is still changing and developing. Various innovations around blockchain are constantly being tried, and new business models are constantly being invented.  Many investment institutions recognize that the development possibilities of blockchain in many industries in the future are still highly uncertain.  Most of the capital has a wait-and-see attitude and hopes to wait for the situation to be clear. There are many shortcomings in this report, such as lack of in-depth exploration and summary in practice.
