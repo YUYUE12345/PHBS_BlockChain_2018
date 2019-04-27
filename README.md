@@ -83,7 +83,7 @@ Figure photo from the project
  
 Based on the campus blockchain, students can access individual learning achievement records through relevant services and present them to relevant agencies as needed. After receiving the resume of the student, the company can also use the system to query the student's academic credentials and awards. The use of this system simplifies the process of certifying and verifying this information for schools, individuals and organizations. The campus blockchain is a new attempt in the field of education in the blockchain, which will greatly facilitate college graduates, job seekers and employers, reducing the cost of recruiting and recruiting. In the longer run, the construction of the campus blockchain will accelerate the process of educational informatization and accelerate the integration of online space and real space.
 
-## IV. Advantages, problems and development direction
+## IV. Advantages, problems
 From the characteristics of the technology itself, the blockchain has three major advantages: first is to define a data structure that can express the order; second is to build a peer-to-peer network using a cryptographic-based distributed protocol; third is to use a consensus mechanism to ensure the operation of decentralized network. 
 
 ![GitHub Logo](/图片8.png)
