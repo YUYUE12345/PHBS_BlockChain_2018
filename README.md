@@ -20,7 +20,7 @@ With the increasing influence of the blockchain in China, there are some innovat
 The blockchain has been widely promoted since 2015. Recognizing the enormous innovation potential of this technology, the forerunners of the education industry have also begun to consider the application of blockchain to build educational information infrastructure, to solve educational problems and provide innovative services.
 In October 2016, the Ministry of Industry and Information Technology issued the “White Paper on Chinese Blockchain and Application Development”, pointing out that “the transparency of the blockchain system and the inability to tamper with data” are fully applicable to student credit management, career promotion, academic and qualification certificates. 
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](/图片1.png)
 Figure Internet + Education based on blockchain
 
 At present, some educational institutions or research institutes have carried out early explorations on the educational application of blockchain. In the fall of 2015, the MIT Media Lab applied blockchain to develop a learning certificate platform and released related mobile apps, as shown in next figure. The software training facility, Holberton School, is the first school in the world to use blockchain to record academic qualifications and will share academic credentials on the blockchain starting in 2017. In the electronic badge community, the Badge Chain team is investigating how to use the blockchain to issue digital badges. In addition, educational institutions have developed a game currency mechanism used in the learning system based on the original financial currency function of the blockchain to enhance learners' motivation to learn and share knowledge on the platform.
