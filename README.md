@@ -121,8 +121,17 @@ Blockchain has been rapidly rising in recent years, and its application fields f
 
 ## VI. Reference
 
-1. [Blockchain:Blueprint for a New Economy. Swan M. 2015](http://www.gbv.de/dms/zbw/815481209.pdf)
-2. [New kid on the blockchain. New Scientist . 2015](http://scienceandentertainmentexchange.org/article/new-kid-on-the-blockchain/)
-3. [Bitcoin:bubble or blockchain. Godsiff P. Proceedings of the 9th KES International Conference on Agent and Multi-Agent Systems:Technologies and Applications (KESAMSTA) . 2015](http://www.macs.hw.ac.uk/~yjc32/project/Conferences/KES%20AMSTA/KES-AMSTA-2015/DE%20session%20publications/0-Philip%20Godsiff-KES%20AMSTA%202016.pdf)
-4. [The Blockchain and Kudos:A Distributed System for Educational Record,Reputation and Reward. Sharples,M,Domingue,J. (2016) Adaptive and Adaptable Learning EC-TEL. 2016](https://link.springer.com/chapter/10.1007/978-3-319-45153-4_48)
-5. [Blockchain Beyond Bitcoin. Underwood,S. Communications of the ACM . 2016](https://cacm.acm.org/magazines/2016/11/209132-blockchain-beyond-bitcoin/abstract)
+1. 10 amazing ways Blockchain in assessment could be used in education. Donald Clark. http://donaldclarkplanb.blogspot.ca/2016/06/10-surprising-ways-blockchain-could-be.html . 2016
+
+2. How blockchain will disrupt the higher education transcript. Raths D. https://campustechnology.com/articles/2016/05/16/how-blockchain-will-disrupt-the-higher-education-transcript.aspx. 2016
+
+2. New kid on the blockchain. New Scientist. http://scienceandentertainmentexchange.org/article/new-kid-on-the-blockchain/ . 2015
+
+4. [The Blockchain and Kudos:A Distributed System for Educational Record,Reputation and Reward. Sharples,M,Domingue,J. (2016) Adaptive and Adaptable Learning EC-TEL. https://link.springer.com/chapter/10.1007/978-3-319-45153-4_48 . 2016
+
+5. Blockchain Beyond Bitcoin. Underwood,S. Communications of the ACM. https://cacm.acm.org/magazines/2016/11/209132-blockchain-beyond-bitcoin/abstract . 2016
+
+6. MIT Media Lab uses the bitcoin blockchain for digital certificates. Redman J. http://www.newsbtc.com/2016/06/05/mit-uses-bitcoin-blockchain-certificates . 2016
+
+7. The blockchain for education:an introduction. Watters A. http://hackeducation.com/2016/04/07/blockchain-education-guide . 2016
+
