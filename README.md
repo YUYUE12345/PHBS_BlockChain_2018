@@ -29,7 +29,7 @@ At present, some educational institutions or research institutes have carried ou
 
 Figure MIT e-learning certificate APP screenshot
   
-#### (b) Th methods the applications of blockchain affect education 
+#### (b) The methods the applications of blockchain affect education 
 In the field of education, the application of blockchain and business innovation are still at the forefront of exploration. For example, blockchain in education can be used for distributed storage data logging, or as an application scenario such as Intellectual Currency; and researchers foresee the use of blockchain in open source credit certification, data security, data storage, and academic publishing. Blockchain has the following possible applications in education:
 
 ![GitHub Logo](/图片3.png)
