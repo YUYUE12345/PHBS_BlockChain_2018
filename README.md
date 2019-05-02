@@ -118,3 +118,11 @@ It is a long process for blockchain merging into education to be recognized and 
 
 ## V. Summary
 Blockchain has been rapidly rising in recent years, and its application fields far exceed financial and digital currencies, and are expanding to various industries. Blockchain offers the potential to change existing business models, which helps create a decentralized education system. This article has only made some preliminary explorations and case studies, because the blockchain itself is still changing and developing. Various innovations around blockchain are constantly being tried, and new business models are constantly being invented.  Many investment institutions recognize that the development possibilities of blockchain in many industries in the future are still highly uncertain, in the meantime most of the capital has a wait-and-see attitude and hopes to wait for the situation to be clear. There are many shortcomings in this report, such as lack of in-depth exploration and summary in practice.
+
+## VI. Reference
+
+1. [Blockchain:Blueprint for a New Economy. Swan M. 2015](http://www.gbv.de/dms/zbw/815481209.pdf)
+2. [New kid on the blockchain. New Scientist . 2015](http://scienceandentertainmentexchange.org/article/new-kid-on-the-blockchain/)
+3. [Bitcoin:bubble or blockchain. Godsiff P. Proceedings of the 9th KES International Conference on Agent and Multi-Agent Systems:Technologies and Applications (KESAMSTA) . 2015](http://www.macs.hw.ac.uk/~yjc32/project/Conferences/KES%20AMSTA/KES-AMSTA-2015/DE%20session%20publications/0-Philip%20Godsiff-KES%20AMSTA%202016.pdf)
+4. [The Blockchain and Kudos:A Distributed System for Educational Record,Reputation and Reward. Sharples,M,Domingue,J. (2016) Adaptive and Adaptable Learning EC-TEL. 2016] (https://link.springer.com/chapter/10.1007/978-3-319-45153-4_48)
+5. [Blockchain Beyond Bitcoin. Underwood,S. Communications of the ACM . 2016](https://cacm.acm.org/magazines/2016/11/209132-blockchain-beyond-bitcoin/abstract)
